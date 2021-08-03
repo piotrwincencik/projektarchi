@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "n17isp7RC1FCsEWLmvuC4ncEc1nMRhArT/YiatmnJLdEkCeb3B5YMeRoxrUSRkb1auOglOyeGOSCCNkNUWaZlg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kamil\\Desktop\\projekt_architektura\\ProjektSymulatora\\ProjektSymulatora.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kamil\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Kamil\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Kamil\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Kamil\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
